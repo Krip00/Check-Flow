@@ -19,6 +19,7 @@ The script requires the following libraries to be installed:
 - socket
 - whois
 - telegram
+
 The script can be run by executing the following command in the terminal:
 
 ```
